@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\exercicios TPA\exerc3\exerc3\bin\Debug\net8.0\exerc3.exe
+C:\Users\user\Desktop\exercicios TPA\exerc3\exerc3\bin\Debug\net8.0\exerc3.deps.json
+C:\Users\user\Desktop\exercicios TPA\exerc3\exerc3\bin\Debug\net8.0\exerc3.runtimeconfig.json
+C:\Users\user\Desktop\exercicios TPA\exerc3\exerc3\bin\Debug\net8.0\exerc3.dll
+C:\Users\user\Desktop\exercicios TPA\exerc3\exerc3\bin\Debug\net8.0\exerc3.pdb
+C:\Users\user\Desktop\exercicios TPA\exerc3\exerc3\obj\Debug\net8.0\exerc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\exercicios TPA\exerc3\exerc3\obj\Debug\net8.0\exerc3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\exercicios TPA\exerc3\exerc3\obj\Debug\net8.0\exerc3.AssemblyInfo.cs
+C:\Users\user\Desktop\exercicios TPA\exerc3\exerc3\obj\Debug\net8.0\exerc3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\exercicios TPA\exerc3\exerc3\obj\Debug\net8.0\exerc3.dll
+C:\Users\user\Desktop\exercicios TPA\exerc3\exerc3\obj\Debug\net8.0\refint\exerc3.dll
+C:\Users\user\Desktop\exercicios TPA\exerc3\exerc3\obj\Debug\net8.0\exerc3.pdb
+C:\Users\user\Desktop\exercicios TPA\exerc3\exerc3\obj\Debug\net8.0\exerc3.genruntimeconfig.cache
+C:\Users\user\Desktop\exercicios TPA\exerc3\exerc3\obj\Debug\net8.0\ref\exerc3.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\exercicios TPA\exerc10\exerc10\bin\Debug\net8.0\exerc10.exe
+C:\Users\user\Desktop\exercicios TPA\exerc10\exerc10\bin\Debug\net8.0\exerc10.deps.json
+C:\Users\user\Desktop\exercicios TPA\exerc10\exerc10\bin\Debug\net8.0\exerc10.runtimeconfig.json
+C:\Users\user\Desktop\exercicios TPA\exerc10\exerc10\bin\Debug\net8.0\exerc10.dll
+C:\Users\user\Desktop\exercicios TPA\exerc10\exerc10\bin\Debug\net8.0\exerc10.pdb
+C:\Users\user\Desktop\exercicios TPA\exerc10\exerc10\obj\Debug\net8.0\exerc10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\exercicios TPA\exerc10\exerc10\obj\Debug\net8.0\exerc10.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\exercicios TPA\exerc10\exerc10\obj\Debug\net8.0\exerc10.AssemblyInfo.cs
+C:\Users\user\Desktop\exercicios TPA\exerc10\exerc10\obj\Debug\net8.0\exerc10.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\exercicios TPA\exerc10\exerc10\obj\Debug\net8.0\exerc10.dll
+C:\Users\user\Desktop\exercicios TPA\exerc10\exerc10\obj\Debug\net8.0\refint\exerc10.dll
+C:\Users\user\Desktop\exercicios TPA\exerc10\exerc10\obj\Debug\net8.0\exerc10.pdb
+C:\Users\user\Desktop\exercicios TPA\exerc10\exerc10\obj\Debug\net8.0\exerc10.genruntimeconfig.cache
+C:\Users\user\Desktop\exercicios TPA\exerc10\exerc10\obj\Debug\net8.0\ref\exerc10.dll
